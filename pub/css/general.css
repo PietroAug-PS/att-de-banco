@@ -1,0 +1,11 @@
+:root {
+    --main-bg-grad: linear-gradient(90deg, #131862 0%, #2e4482 25%, #546bab 50%, #87889c 75%, #bea9de 95%);
+}
+
+body {
+    background: var(--main-bg-grad);
+}
+
+strong {
+    font-weight: 800;
+}
